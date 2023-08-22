@@ -47,8 +47,6 @@ Gachi 的意思大概是「和纸片人谈恋爱」，我们觉得和虚拟直�
 
 立项的时候基于团队背景，社交+技术宅+二次元，和虚拟主播皮套很贵的现状，大概有一个「降低虚拟形象生成成本」的思路，想着「低成本虚拟形象」+「使用场景」，也许可以做一点事情。 这时候发现了日本的一个产品——reality，恰好是「捏脸+直播」。
 
-![reality.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/847f4931-3715-4c37-8eb9-de2e297d0233/reality.webp)
-
 [REALITY｜バーチャルライブ配信アプリ](https://reality.app/)
 
 他：
