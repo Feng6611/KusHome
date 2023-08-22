@@ -17,25 +17,18 @@ footnotereturnlinkcontents = "↩"
   url="/books/"
   weight="1"
 
-  [[menu.main]]
-  name="BookList"
-  url="/bibliography/"
-  weight="2"
+
 
   [[menu.main]]
   name="Writing"
   url="/posts/"
   weight="3"
-  
-  [[menu.main]]
-  name="Letter"
-  url="/newsletter/"
-  weight="4"
+
 
 [params]
   # description abou this website
-  description = "There is only one thing in the world worse than being talked about, and that is not being talked about."
-  footer = "&copy; [Ku](https://kukuchen.com) | since 2009"
+  description = "创造者并非无私的。他们力量的全部秘密就在于——它是自给自足的，自我驱使的，自我激发的。那就是原动力，是活力的源泉，是生命力，是最原始的动力。创造者不服务于任何人和任何事。他始终为自己而生存。"
+  footer = "&copy; [Ku](https://kukuchen.com) | since 2023"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "tex"]
   highlightjsTheme = "github"
