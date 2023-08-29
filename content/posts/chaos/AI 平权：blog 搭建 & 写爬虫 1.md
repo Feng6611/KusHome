@@ -1,7 +1,7 @@
 ---
 title: "AI 提效的前提是有一定基础：blog 搭建 & 写爬虫"
 author: ku
-date: 2023-8-25
+date: 2023-08-25
 tags: memos
 ---
 
